@@ -1,0 +1,1 @@
+This repository contains my daily study updates and notes from the book Data Science from Scratch. Each chapter is documented separately, allowing me to track my learning progress, organize key concepts, and share insights with others following the same book.
